@@ -1,0 +1,31 @@
+.modal-dialog {
+  width: 90%;
+}
+.instruction-img {
+  display: inline-block;
+  width: 45%;
+}
+
+.modal-dialog {
+  background-color: white;
+}
+
+.modal-header {
+  background-color: aqua;
+}
+
+h4 {
+  text-align: center;
+}
+
+body {
+  background-size: cover;
+}
+
+.cc {
+  height: 500px;
+  width: 500px;
+  background-color: blue;
+  margin-top: 25px;
+  margin-left: 400px;
+}
